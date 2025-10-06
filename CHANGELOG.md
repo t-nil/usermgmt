@@ -280,3 +280,9 @@ Nothing
 
 - Some typos (mostly in GUI).
 
+## [0.7.0] - 2025-10-06
+
+### Added
+### Changed
+### Fixed
+- MacOS release action (vendoring OpenSSL)
